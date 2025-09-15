@@ -14,9 +14,9 @@ Tables used:
 
 2. order_details → order_detail_id,order_id, pizza_id, quantity
 
-3. pizzas → pizza_id, size, price
+3. pizzas → pizza_id, pizza_type_id, size, price
 
-4. pizza_types → pizza_type_id, category, name
+4. pizza_types → pizza_type_id, name , category , ingredietns
 
 # 🔑 Business Questions Solved
  🟢 _**Basic :**_
