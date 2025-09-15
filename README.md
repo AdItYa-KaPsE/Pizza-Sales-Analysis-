@@ -12,7 +12,7 @@ Tables used:
 
 1. orders → order_id, order_date, time
 
-2. order_details → order_id, pizza_id, quantity
+2. order_details → order_detail_id,order_id, pizza_id, quantity
 
 3. pizzas → pizza_id, size, price
 
