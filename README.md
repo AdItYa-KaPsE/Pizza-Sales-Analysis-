@@ -74,5 +74,5 @@ Tables used:
 # 🛠️ Tech Stack
 
 SQL (MySQL)
-
+Tableau for Dashboard
 GitHub for version control
